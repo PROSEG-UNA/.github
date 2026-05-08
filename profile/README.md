@@ -1,4 +1,4 @@
-![SPSG Banner](./spsg-banner.png)
+![SPSG Banner](../spsg-banner.png)
 
 # Equipo de Desarrollo
 
